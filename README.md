@@ -41,4 +41,4 @@ Currently the only way to fix this issue is by using a more powerful computer.
 **Q.** Why are many common fonts missing from the "Change Fonts" option?
 
 **A.** At the moment Python and Matplotlib do not share all the possible fonts available. 
-If this changes I will promptly update Linear Fit to show such fonts
+If this changes I will promptly update Linear Plot to show such fonts
